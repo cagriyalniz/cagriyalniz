@@ -12,4 +12,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cagriyalniz&show_icons=true&locale=en&layout=compact" alt="cagriyalniz" /></p>
 
+<h3 allign="center">My Ecole 42 Kocaeli Profile</h3>
+
 [![cyalniz's 42 stats](https://badge42.herokuapp.com/api/stats/cyalniz?privacyEmail=true)](https://github.com/cyalniz/badge42) </p>
